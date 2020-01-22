@@ -1,0 +1,19 @@
+{
+  "name": "Safaricom",
+  "icons": [
+    {
+      "src": "/images/icons/new/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/new/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#009a3e",
+  "background_color": "#009a3e",
+  "description": "Save the safaricom website to your phone and quickly access it while offline.",
+  "display": "standalone"
+}

@@ -1,0 +1,13 @@
+/*
+function display_c(){
+  var refresh=1000; //Refresh rate
+  mytime=setTimeout('display_ct()', refresh)
+}
+
+function display_ct(){
+  var x = newDate()
+  document.getElementById('ct').innerHTML=x;
+  display_c();
+}
+
+*/
